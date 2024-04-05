@@ -1,10 +1,5 @@
-👋 Hi, I’m @ayshabincy!
-👀 I’m interested in data science, machine learning, and artificial intelligence.
-🌱 I’m currently learning Python programming, statistical analysis, and machine learning algorithms.
-💞️ I’m looking to collaborate on data science projects or research initiatives to gain practical experience.
-📫 You can reach me via email at [ayshabincy@gmail.com] or connect with me on LinkedIn [www.linkedin.com/in/
-aysha-bincy-0ba7077b
-].
+
+
 😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy analyzing datasets to uncover interesting patterns and insights!
 
